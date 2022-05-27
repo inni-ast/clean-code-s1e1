@@ -142,11 +142,11 @@
     display: none;
 }
 
-.item__list .editMode .item__text {
+.item__list .edit-mode .item__text {
     display: inline-block;
     width: 224px;
 }
 
-.item__list .list__item.editMode .label {
+.item__list .list__item.edit-mode .label {
     display: none;
 }
