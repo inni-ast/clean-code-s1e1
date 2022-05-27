@@ -86,6 +86,7 @@
 }
 .item__text:focus {
     color: #333;
+    border: 1px solid #dDd;
 }
 
 /* New Task */
